@@ -1,8 +1,8 @@
 backend/node_modules
 backend/public/hot
 backend/public/storage
-
 backend/app/storage/
+backend/storage/debugbar
 backend/vendor
 backend/.env
 backend/.env.backup
